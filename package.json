@@ -1,0 +1,25 @@
+{
+  "name": "midi-pitches",
+  "version": "1.0.0",
+  "description": "Get the pitch for a midi note",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJkrusinski/midi-pitches.git"
+  },
+  "keywords": [
+    "midi",
+    "pitch",
+    "note",
+    "audio"
+  ],
+  "author": "TJ Krusinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJkrusinski/midi-pitches/issues"
+  },
+  "homepage": "https://github.com/TJkrusinski/midi-pitches#readme"
+}
